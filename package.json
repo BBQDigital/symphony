@@ -1,0 +1,19 @@
+{
+  "name": "symphony-v2",
+  "version": "1.0.0",
+  "description": "The 2018 release of Symphony",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foxleigh81/symphony-v2.git"
+  },
+  "author": "Alex Foxleigh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/foxleigh81/symphony-v2/issues"
+  },
+  "homepage": "https://github.com/foxleigh81/symphony-v2#readme"
+}
